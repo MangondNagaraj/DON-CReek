@@ -1,4 +1,4 @@
 # DON-CReek
-this is my first rep <br>
+This is my first rep <br>
 Author-Don Creek
 
